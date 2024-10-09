@@ -18,6 +18,15 @@ kmeans_loaded, encoder_vibe_loaded, scaler_loaded, df_users = load_model()
 
 @router.post("/recommendation")
 async def get_recommendation(request: RecommendationRequest):
+    """
+    Get a recommendation for a user based on their vibe, expenses, and season
+
+    Args:
+        request (RecommendationRequest): A JSON object containing the user's vibe, expenses, and season
+
+    Returns:
+        dict: A JSON object containing an itenary for the user
+    """
     new_user_vibe = request.vibe
     new_user_expenses = request.expenses
     new_user_season = request.season

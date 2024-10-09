@@ -1,3 +1,6 @@
+
+#Mock trends can be setuped to find and fetch from google later
+
 mock_trend = {
     'Mumbai': {
         'trend_restaurant': ['The Table'],
