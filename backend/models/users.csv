@@ -1,0 +1,101 @@
+user_id,expenses,vibe,reviews,previous_destinations,favorite_city,cluster
+1,232.42,Luxury,Amazing Fun Average Amazing Fun,"['Darjeeling', 'Jaipur']",Goa,1
+2,174.58,Adventure,Terrible Amazing Fun Great Fun,"['Darjeeling', 'Jaipur', 'Mumbai']",Mumbai,2
+3,425.4,Relaxation,Fun Terrible Terrible Fun Average,"['Mumbai', 'Goa']",Jaipur,0
+4,243.44,Luxury,Terrible Average Amazing Amazing Great,['Jaipur'],Goa,1
+5,358.1,Luxury,Terrible Average Terrible Average Great,"['Jaipur', 'Shimla']",Shimla,0
+6,456.63,Relaxation,Terrible Great Great Terrible Amazing,"['Jaipur', 'Shimla']",Jaipur,0
+7,319.17,Luxury,Average Terrible Terrible Average Amazing,"['Mumbai', 'Shimla', 'Jaipur']",Shimla,0
+8,317.75,Adventure,Terrible Fun Fun Terrible Great,['Goa'],Jaipur,2
+9,375.94,Luxury,Amazing Average Fun Average Average,"['Darjeeling', 'Mumbai']",Goa,0
+10,461.09,Relaxation,Fun Average Average Fun Average,['Jaipur'],Shimla,0
+11,149.82,Luxury,Great Fun Amazing Amazing Fun,"['Shimla', 'Goa', 'Mumbai']",Shimla,1
+12,107.42,Relaxation,Fun Amazing Average Great Amazing,['Darjeeling'],Darjeeling,3
+13,262.86,Budget,Amazing Terrible Terrible Terrible Average,"['Jaipur', 'Shimla']",Mumbai,4
+14,367.37,Budget,Fun Average Great Amazing Fun,['Mumbai'],Goa,4
+15,206.97,Luxury,Fun Amazing Fun Great Fun,"['Jaipur', 'Mumbai', 'Darjeeling']",Goa,1
+16,260.08,Adventure,Fun Great Average Fun Average,"['Darjeeling', 'Mumbai']",Darjeeling,2
+17,68.45,Adventure,Amazing Terrible Fun Amazing Fun,['Goa'],Mumbai,1
+18,455.1,Relaxation,Amazing Fun Fun Average Amazing,"['Mumbai', 'Darjeeling', 'Jaipur']",Darjeeling,0
+19,193.22,Adventure,Amazing Great Amazing Terrible Fun,['Jaipur'],Darjeeling,2
+20,74.64,Luxury,Great Fun Great Terrible Average,"['Shimla', 'Darjeeling', 'Jaipur']",Shimla,1
+21,70.04,Luxury,Great Amazing Great Fun Great,"['Mumbai', 'Goa', 'Shimla']",Darjeeling,1
+22,233.72,Adventure,Fun Average Average Terrible Average,"['Jaipur', 'Goa', 'Darjeeling']",Darjeeling,2
+23,251.21,Luxury,Great Average Terrible Fun Average,"['Shimla', 'Jaipur', 'Mumbai']",Shimla,1
+24,347.62,Budget,Terrible Great Amazing Average Terrible,"['Goa', 'Shimla']",Goa,4
+25,439.76,Luxury,Amazing Average Amazing Fun Fun,"['Shimla', 'Goa']",Goa,0
+26,292.63,Adventure,Amazing Terrible Amazing Fun Amazing,['Shimla'],Goa,2
+27,410.77,Budget,Terrible Average Amazing Fun Great,['Goa'],Shimla,4
+28,443.38,Budget,Great Great Amazing Average Average,['Jaipur'],Goa,4
+29,253.14,Budget,Great Fun Average Great Amazing,"['Jaipur', 'Darjeeling', 'Shimla']",Jaipur,4
+30,140.1,Relaxation,Great Average Fun Fun Terrible,['Darjeeling'],Goa,3
+31,69.87,Budget,Amazing Average Terrible Fun Fun,"['Jaipur', 'Darjeeling']",Darjeeling,1
+32,391.06,Luxury,Average Terrible Amazing Amazing Average,"['Jaipur', 'Shimla', 'Mumbai']",Shimla,0
+33,208.51,Luxury,Terrible Amazing Fun Fun Amazing,"['Jaipur', 'Darjeeling', 'Mumbai']",Darjeeling,1
+34,212.55,Relaxation,Great Great Amazing Fun Terrible,['Mumbai'],Goa,3
+35,464.84,Adventure,Amazing Fun Fun Terrible Terrible,['Shimla'],Mumbai,0
+36,289.49,Luxury,Amazing Great Fun Fun Average,"['Goa', 'Mumbai', 'Shimla']",Shimla,0
+37,85.62,Luxury,Average Average Fun Terrible Average,['Goa'],Shimla,1
+38,409.35,Luxury,Amazing Great Average Average Average,['Darjeeling'],Mumbai,0
+39,324.53,Budget,Amazing Terrible Fun Amazing Average,"['Goa', 'Shimla']",Darjeeling,4
+40,287.8,Luxury,Great Amazing Amazing Terrible Great,"['Darjeeling', 'Jaipur', 'Mumbai']",Jaipur,0
+41,315.29,Budget,Great Amazing Great Terrible Great,['Jaipur'],Mumbai,4
+42,97.12,Relaxation,Amazing Average Amazing Average Amazing,"['Shimla', 'Goa']",Jaipur,3
+43,206.31,Relaxation,Great Amazing Fun Average Great,"['Shimla', 'Darjeeling', 'Jaipur']",Darjeeling,3
+44,350.73,Relaxation,Terrible Average Average Terrible Average,['Shimla'],Goa,0
+45,123.91,Adventure,Terrible Amazing Amazing Amazing Terrible,"['Mumbai', 'Jaipur', 'Darjeeling']",Mumbai,1
+46,54.31,Budget,Amazing Fun Terrible Amazing Great,"['Shimla', 'Jaipur', 'Mumbai']",Jaipur,1
+47,178.12,Relaxation,Average Great Amazing Great Terrible,['Darjeeling'],Mumbai,3
+48,101.17,Adventure,Great Fun Amazing Terrible Great,"['Jaipur', 'Goa', 'Darjeeling']",Shimla,1
+49,157.66,Adventure,Terrible Great Terrible Average Fun,['Jaipur'],Jaipur,2
+50,364.39,Adventure,Great Average Fun Amazing Terrible,"['Shimla', 'Darjeeling', 'Mumbai']",Darjeeling,2
+51,387.27,Luxury,Great Great Terrible Great Average,"['Darjeeling', 'Goa', 'Jaipur']",Darjeeling,0
+52,267.12,Adventure,Great Average Amazing Average Average,['Darjeeling'],Shimla,2
+53,81.26,Adventure,Fun Fun Average Great Terrible,['Jaipur'],Jaipur,1
+54,425.52,Budget,Amazing Amazing Fun Amazing Great,"['Shimla', 'Darjeeling', 'Jaipur']",Shimla,4
+55,364.02,Budget,Amazing Fun Average Terrible Great,"['Goa', 'Darjeeling']",Darjeeling,4
+56,415.78,Adventure,Average Average Amazing Great Terrible,"['Mumbai', 'Jaipur']",Shimla,2
+57,163.19,Relaxation,Great Fun Great Fun Amazing,"['Darjeeling', 'Jaipur', 'Goa']",Darjeeling,3
+58,87.14,Luxury,Terrible Fun Average Average Terrible,['Darjeeling'],Mumbai,1
+59,180.57,Relaxation,Amazing Amazing Average Terrible Great,"['Shimla', 'Darjeeling', 'Goa']",Shimla,3
+60,176.46,Luxury,Great Amazing Great Average Great,['Shimla'],Mumbai,1
+61,285.37,Adventure,Terrible Average Average Fun Average,"['Darjeeling', 'Jaipur', 'Goa']",Goa,2
+62,324.73,Budget,Amazing Amazing Average Fun Great,"['Jaipur', 'Mumbai']",Shimla,4
+63,195.91,Relaxation,Great Amazing Great Average Terrible,"['Goa', 'Darjeeling', 'Jaipur']",Mumbai,3
+64,471.02,Budget,Terrible Average Average Great Amazing,"['Goa', 'Shimla']",Darjeeling,4
+65,334.83,Luxury,Average Terrible Fun Terrible Great,['Goa'],Mumbai,0
+66,366.43,Budget,Average Average Great Terrible Terrible,"['Mumbai', 'Jaipur']",Shimla,4
+67,287.75,Relaxation,Fun Fun Fun Average Terrible,"['Jaipur', 'Shimla']",Goa,3
+68,131.22,Luxury,Amazing Great Great Amazing Great,"['Shimla', 'Jaipur']",Mumbai,1
+69,248.87,Budget,Great Fun Fun Amazing Terrible,"['Jaipur', 'Darjeeling', 'Goa']",Goa,4
+70,394.57,Budget,Terrible Terrible Amazing Average Fun,"['Jaipur', 'Goa', 'Shimla']",Mumbai,4
+71,197.0,Luxury,Great Fun Fun Terrible Great,"['Shimla', 'Darjeeling']",Darjeeling,1
+72,408.74,Luxury,Great Amazing Terrible Great Fun,"['Goa', 'Shimla', 'Mumbai']",Shimla,0
+73,445.93,Luxury,Amazing Amazing Fun Amazing Average,"['Mumbai', 'Jaipur']",Darjeeling,0
+74,169.15,Luxury,Fun Terrible Great Average Great,"['Goa', 'Darjeeling', 'Mumbai']",Jaipur,1
+75,151.58,Budget,Terrible Average Average Great Great,"['Darjeeling', 'Mumbai', 'Jaipur']",Shimla,1
+76,318.51,Luxury,Amazing Amazing Average Average Terrible,"['Jaipur', 'Darjeeling', 'Mumbai']",Mumbai,0
+77,59.27,Luxury,Amazing Fun Great Terrible Fun,['Darjeeling'],Goa,1
+78,90.6,Budget,Terrible Great Great Amazing Average,"['Goa', 'Mumbai', 'Jaipur']",Jaipur,1
+79,403.38,Relaxation,Amazing Terrible Great Fun Average,"['Goa', 'Shimla', 'Darjeeling']",Shimla,0
+80,459.25,Relaxation,Terrible Terrible Terrible Fun Fun,"['Mumbai', 'Shimla', 'Darjeeling']",Shimla,0
+81,141.97,Relaxation,Great Amazing Terrible Average Terrible,"['Mumbai', 'Darjeeling', 'Goa']",Darjeeling,3
+82,84.86,Relaxation,Great Fun Fun Average Amazing,"['Mumbai', 'Shimla']",Shimla,3
+83,243.84,Adventure,Great Great Great Amazing Average,"['Mumbai', 'Goa', 'Darjeeling']",Jaipur,2
+84,60.53,Adventure,Terrible Great Great Average Average,['Mumbai'],Goa,1
+85,118.42,Relaxation,Great Terrible Fun Amazing Amazing,['Shimla'],Goa,3
+86,457.53,Luxury,Fun Terrible Fun Average Average,"['Mumbai', 'Shimla']",Mumbai,0
+87,231.57,Budget,Average Great Great Average Terrible,['Darjeeling'],Goa,4
+88,444.52,Adventure,Great Fun Amazing Amazing Fun,"['Jaipur', 'Goa']",Mumbai,0
+89,113.9,Luxury,Fun Amazing Average Fun Amazing,"['Jaipur', 'Mumbai', 'Goa']",Goa,1
+90,484.56,Budget,Average Amazing Fun Average Amazing,['Goa'],Darjeeling,4
+91,249.05,Adventure,Average Terrible Great Terrible Great,['Goa'],Goa,2
+92,361.02,Adventure,Fun Amazing Terrible Fun Terrible,"['Darjeeling', 'Jaipur', 'Goa']",Goa,2
+93,401.03,Adventure,Fun Terrible Average Fun Amazing,"['Mumbai', 'Darjeeling', 'Goa']",Mumbai,2
+94,462.76,Luxury,Fun Great Great Amazing Great,"['Jaipur', 'Shimla']",Goa,0
+95,167.53,Luxury,Great Amazing Terrible Fun Great,"['Mumbai', 'Goa', 'Shimla']",Darjeeling,1
+96,219.98,Adventure,Average Great Amazing Fun Great,"['Jaipur', 'Shimla']",Mumbai,2
+97,333.47,Budget,Amazing Average Terrible Amazing Average,"['Darjeeling', 'Goa']",Shimla,4
+98,302.98,Relaxation,Average Fun Average Fun Terrible,"['Goa', 'Mumbai']",Mumbai,3
+99,195.81,Adventure,Fun Great Average Amazing Great,"['Goa', 'Jaipur']",Mumbai,2
+100,305.09,Relaxation,Average Terrible Average Great Fun,"['Mumbai', 'Goa']",Shimla,3
