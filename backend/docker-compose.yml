@@ -7,4 +7,4 @@ services:
       - "8000:8000"
     environment:
       - GEMINI_API=
-    command: uvicorn app:app --host 0.0.0.0 --port 8000
+    command: python app.py
